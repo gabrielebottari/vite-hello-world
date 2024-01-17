@@ -5,12 +5,11 @@ export default {
             title: 'La mia prima app con Vite!'
          }
     },
-    template: `<div>count is {{ count }}</div>`,
 };
 </script>
 
 <template>
-    
+
     <div>
         <header>
             <h1 class="main-title">
